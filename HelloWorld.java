@@ -4,7 +4,7 @@ public class HelloWorld {
 		int i=66;
 		System.out.println("Hola Mundo ......");
 		System.out.println("el valor de i: "+i);
-		System.out.println("agregue una modificacion desde vscode a git")
+		System.out.println("agregue una modificacion desde vscode a git");
 	}
  
 }
